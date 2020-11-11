@@ -1,4 +1,5 @@
 # Navigation
+[![Build Status](https://app.bitrise.io/app/9069442b814249c7/status.svg?token=oJjN31yWjh1mcreLLNxUMQ)](https://app.bitrise.io/app/9069442b814249c7)
 
 This is the toy app for lesson 3 of the [Android App Development in Kotlin course on Udacity](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012).
 
